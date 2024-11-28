@@ -1,4 +1,4 @@
-Description of the files given to students
+Handout files:
 
 readme.txt - this file
 ais_train.csv - training data       
@@ -11,3 +11,9 @@ Dataset definitions and explanation.docx - a documents that gives more details a
 Machine learning task for TDT4173.docx - brief introduction to the task
 vessel_trajectories_visualization.ipynb - a demo utility function for visualizing the trajectory of a vessel
 kaggle_metric.ipynb - the score function we use in the Kaggle competition
+
+Submission files:
+
+Report.ipynb - Main report 
+Short_notebook_1.ipynb - Short notebook to reproduce kaggel submission
+Short_notebook_2.ipynb - Short notebook to reproduce a different kaggel submission
